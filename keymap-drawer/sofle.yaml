@@ -197,4 +197,4 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
 combos:
 - p: [39, 56, 48]
-  k: $$mdi:volume-off$$
+  k: $$mdi:volume-low$$
