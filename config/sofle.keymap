@@ -41,9 +41,10 @@
     combos {
         compatible = "zmk,combos";
 
-        AudioBacktrack {
+        AudioBACK {
             bindings = <&kp C_VOL_DN>;
             key-positions = <39 56 48>;
+            layers = <0 1>;
         };
     };
 
