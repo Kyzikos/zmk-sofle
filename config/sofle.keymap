@@ -43,7 +43,7 @@
 
         AudioBacktrack {
             bindings = <&kp C_MUTE>;
-            key-positions = <39 56 24>;
+            key-positions = <39 56 48>;
         };
     };
 
