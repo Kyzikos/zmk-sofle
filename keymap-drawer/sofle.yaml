@@ -196,5 +196,5 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
 combos:
-- p: [39, 56, 24]
+- p: [39, 56, 48]
   k: $$mdi:volume-off$$
