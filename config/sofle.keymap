@@ -42,7 +42,7 @@
         compatible = "zmk,combos";
 
         AudioBacktrack {
-            bindings = <&kp C_MUTE>;
+            bindings = <&kp C_VOL_DN>;
             key-positions = <39 56 48>;
         };
     };
